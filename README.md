@@ -26,7 +26,7 @@ NLP combines computational linguistics—rule-based modeling of human language�
 NLP drives computer programs that translate text from one language to another, respond to spoken commands, and summarize large volumes of text rapidly—even in real time. There’s a good chance you’ve interacted with NLP in the form of voice-operated GPS systems, digital assistants, speech-to-text dictation software, customer service chatbots, and other consumer conveniences. But NLP also plays a growing role in enterprise solutions that help streamline business operations, increase employee productivity, and simplify mission-critical business processes.<br></br>
 
 
-**Important Note: Go through the documentation for VADER and how it works with NLTK and how vector arithmetic operation happens with the help of cosine similarity before jumping to the code.**
+**Important Note: Go through the npr.rar file and extract the .csv file and get a proper understanding of it before jumping to the code.**
 
 
 </table>
