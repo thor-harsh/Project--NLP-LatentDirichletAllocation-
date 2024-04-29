@@ -10,7 +10,7 @@ We will perform three tasks to perform the final grouping of different reviews o
 2: Grabbing the topic<br>
 3: Grabbing the words with highest probability for a given topic<br></br>
 
-**Before jumping to the code lets understand LDA(Latent Dirichlet Allocation), and NLP(Natural Language Processing) First?**...<br></br>
+**Before jumping to the code lets understand LDA(Latent Dirichlet Allocation), and NLP(Natural Language Processing) First**...<br></br>
 
 
 **What is LDA?** <br></br>
