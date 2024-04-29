@@ -10,21 +10,12 @@ We will perform three tasks to perform the final grouping of different reviews o
 2: Grabbing the topic<br>
 3: Grabbing the words with highest probability for a given topic<br></br>
 
-**Before jumping to the code lets understand LDA, and NLP(Natural Language Processing) First**...<br></br>
-
-**What is Cosine Similarity?** <br></br>
-
-In the context of natural language processing (NLP), cosine similarity is often used to determine the similarity between two text documents represented as vectors in a high-dimensional space, where each dimension corresponds to a term (word) and the value represents the frequency of that term in the document.<br></br>
-
-**What is Sentiment Analysis?** <br></br>
-
-Sentiment analysis in NLP (Natural Language Processing) refers to the process of determining the sentiment or emotional tone expressed in a piece of text. 
-This analysis typically involves classifying the text as positive, negative, or neutral, although more nuanced approaches may involve sentiment scores ranging from very positive to very negative.<br></br>
+**Before jumping to the code lets understand LDA(Latent Dirichlet Allocation), and NLP(Natural Language Processing) First?**...<br></br>
 
 
-**What is VADER?** <br></br>
-VADER (Valence Aware Dictionary and sEntiment Reasoner) is a pre-trained model for sentiment analysis that is included in the NLTK (Natural Language Toolkit) library. It is specifically designed to analyze sentiment in social media texts, taking into account the nuances of informal language, slang, and emoticons commonly found in such texts.<br></br>
+**What is LDA?** <br></br>
 
+Latent Dirichlet Allocation (LDA) is a popular statistical model used in Natural Language Processing (NLP) for topic modeling, a process that automatically identifies topics present in a text corpus.<br></br>
 
 **What is (NLP)Natural Language Processing**?<br></br>
 
